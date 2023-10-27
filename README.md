@@ -9,9 +9,9 @@
  &nbsp;
 
 <!--- snake -->
-<div align="center">
+
 ![Snake animation](https://github.com/Flavim-rsr/Flavim-rsr/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
 ## My Skills
 
