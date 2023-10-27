@@ -1,17 +1,18 @@
 <p align="center">Tenho experiência em logística de estoque, atuo como assistente de estoque e faço serviços como: receber mercadorias, conferir, contar e acertar estoque. Trabalho na Pinelo a Casa da Borracha e estou em transição de área de atuação. Quero atuar como programador e estou cursando o curso de Ciências da Computação na faculdade Uni-FACEF - Centro Universitário Municipal de Franca</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
  &nbsp;
  &nbsp;
+<div align="center"
+  <a href="https://github.com/Flavim-rsr">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Flavim-rsr&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavim-rsr&theme=radical&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
-<!--- snake -->
+<div align="center">
 
-![Snake animation](https://github.com/Flavim-rsr/Flavim-rsr/blob/output/github-contribution-grid-snake.svg)
-
+  ![Snake animation](https://github.com/Flavim-rsr/Flavim-rsr/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 ## My Skills
 
