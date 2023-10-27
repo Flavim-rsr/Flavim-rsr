@@ -10,8 +10,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+![Snake animation](https://github.com/Flavim-rsr/Flavim-rsr/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## My Skills
