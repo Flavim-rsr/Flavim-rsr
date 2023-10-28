@@ -38,7 +38,8 @@
 ## Contacts:
 
 <div> 
-<a href = "flaviorsr.22@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[Gmail 📧](https://flaviorsr.22@gmail.com
+@gmail.com)
 <a href="https://www.linkedin.com/in/flavio-rodrigo-462854270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
