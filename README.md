@@ -1,4 +1,4 @@
-<p align="center">Tenho experiência em logística de estoque, atuo como assistente de estoque e faço serviços como: receber mercadorias, conferir, contar e acertar estoque. Trabalho na Pinelo a Casa da Borracha e estou em transição de área de atuação. Quero atuar como programador e estou cursando o curso de Ciências da Computação na faculdade Uni-FACEF - Centro Universitário Municipal de Franca</p>&nbsp;
+<p align="center">Olá eu sou o Flavio, estou estudando para futuramente ser um dev Fullstack, bem vindo ao meu perfil </p>&nbsp;
  &nbsp;
  &nbsp;
 <div align="center"
