@@ -1,3 +1,5 @@
+![Banner para Linkedin Tecnologia Abstrato Roxo](https://github.com/user-attachments/assets/4462feb9-f008-4e1d-9a8b-07d3205b9d6c)
+
 <p align="center">Olá eu sou o Flavio, estou estudando para futuramente ser um dev Fullstack, bem vindo ao meu perfil </p>&nbsp;
  &nbsp;
  &nbsp;
